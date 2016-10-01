@@ -1,4 +1,4 @@
 $("#frameid")
   .contents()
-  .find("div.splash p b")
+  .find("html body div.splash p b")
   .html('Free Code Camp Buenos Aires');
