@@ -4,4 +4,4 @@
   <br>
 </h1>
 
-Landing page para nuestro chat en Slack
+Landing page para nuestro chat en Slack.
